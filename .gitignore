@@ -1,6 +1,7 @@
 /node_modules
 
-/*.js
+/index.js
+/*.test-d.js
 /*.d.ts
 /cjs
 /coverage
